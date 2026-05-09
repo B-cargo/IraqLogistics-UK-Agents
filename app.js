@@ -1,6 +1,6 @@
 const agents = [
   {
-    id: "london-harlesden",
+    id: "london",
     type: "branch",
     code: "NW - XF",
     area: "London / Harlesden Agent",
@@ -89,16 +89,6 @@ const agents = [
     person: "Kak Taha",
     address: ["45-47 London Road", "Liverpool", "L3 8HY"],
     phones: ["+44 7830 646494"],
-  },
-  {
-    id: "maidstone-chatham",
-    type: "branch",
-    code: "ME - XD",
-    area: "Maidstone / Chatham",
-    business: "Alan Style Barber",
-    person: "Kak Alan",
-    address: ["42 Luton Rd", "Chatham", "ME4 5AA"],
-    phones: ["+44 7463 038171"],
   },
   {
     id: "sheffield",
