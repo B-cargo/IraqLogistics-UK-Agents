@@ -1,9 +1,9 @@
 const agents = [
   {
-    id: "london",
+    id: "london/North West London",
     type: "branch",
     code: "NW - XF",
-    area: "London / Harlesden Agent",
+    area: "London / North West London",
     business: "Alrayah Cargo",
     person: "Abu Rema",
     address: ["219A Cricklewood Broadway", "London", "NW2 3HP"],
@@ -60,10 +60,10 @@ const agents = [
     phones: ["+44 7380 904994"],
   },
   {
-    id: "harrow",
+    id: "London Harrow",
     type: "branch",
     code: "HA - XC",
-    area: "Harrow",
+    area: "London Harrow",
     business: "Amin Transport",
     person: "Abu Laith",
     address: ["95 Church Lane", "Harrow", "HA3 7EB"],
