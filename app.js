@@ -69,16 +69,7 @@ const agents = [
     address: ["95 Church Lane", "Harrow", "HA3 7EB"],
     phones: ["+44 7460 178987"],
   },
-  {
-    id: "london-warehouse",
-    type: "warehouse",
-    code: "SE - XK",
-    area: "London Warehouse",
-    business: "Iraq Logistics",
-    person: "Iraq Logistics",
-    address: ["Unit 19", "Orion Business Centre", "Surrey Canal Road", "London", "SE14 5RT"],
-    phones: ["+44 7761 722850"],
-  },
+
   {
     id: "leicester",
     type: "branch",
@@ -139,46 +130,8 @@ const agents = [
     address: ["1-3 Providence St", "Wakefield", "WF1 3BD"],
     phones: ["+44 7747 831561"],
   },
-  {
-    id: "kent-warehouse-hama",
-    type: "warehouse",
-    code: "JF",
-    area: "Paddock Wood / Kent Warehouse",
-    business: "Kent Warehouse Driver",
-    person: "Hama Jaff",
-    address: ["Paddock Wood", "Kent"],
-    phones: ["+44 7853 361334"],
-  },
-  {
-    id: "kent-warehouse-sarkawt",
-    type: "warehouse",
-    code: "ML",
-    area: "Kent Warehouse",
-    business: "Kent Warehouse Driver",
-    person: "Kak Sarkawt",
-    address: ["Paddock Wood", "Kent"],
-    phones: ["+44 7926 606008"],
-  },
-  {
-    id: "leeds-warehouse-shex",
-    type: "warehouse",
-    code: "LM",
-    area: "Leeds Warehouse",
-    business: "Leeds Warehouse",
-    person: "Shex Mohammed",
-    address: ["Leeds Warehouse", "Leeds"],
-    phones: ["+44 7749 909900"],
-  },
-  {
-    id: "leeds-warehouse-dyar",
-    type: "warehouse",
-    code: "DY",
-    area: "Leeds Warehouse Driver",
-    business: "Leeds Warehouse Driver",
-    person: "Kak Dyar",
-    address: ["Leeds Warehouse", "Leeds"],
-    phones: ["+44 7401 039899"],
-  },
+
+  
 ];
 
 const grid = document.querySelector("#agentGrid");
