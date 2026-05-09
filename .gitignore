@@ -1,0 +1,6 @@
+*.rar
+*.zip
+.jpg-export-test/
+.jpg-export-test-file/
+*.png
+!assets/*.png
